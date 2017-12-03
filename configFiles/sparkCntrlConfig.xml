@@ -1,0 +1,10 @@
+<SparkContext>
+	<Application>
+		<spark.app.name>AttackAnalyzer</spark.app.name>>
+		<spark.master>spark://172.16.112.124:7077</spark.master>
+	</Application>
+	<UI>
+		<spark.eventLog.enabled>true</spark.eventLog.enabled>
+		<spark.eventLog.dir>/afeka_nfs/AlexBrod/eventLogs/</spark.eventLog.dir>
+	</UI>
+</SparkContext>

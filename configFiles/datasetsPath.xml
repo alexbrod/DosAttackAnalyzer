@@ -1,0 +1,6 @@
+<Datasets>
+	<Dataset path="/afeka_nfs/AlexBrod/DataSets/DoS_80_timeseries-20020629/attack[1-7][0-9]/attackrates0.001.winlab"/>
+	<Dataset path="/afeka_nfs/AlexBrod/DataSets/DoS_80_timeseries-20020629/attack[1-9]/attackrates0.001.winlab"/>
+	<Dataset path="/afeka_nfs/AlexBrod/DataSets/DoS_80_timeseries-20020629/attack80/attackrates0.001.winlab"/>
+</Datasets>
+
